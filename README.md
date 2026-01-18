@@ -1,2 +1,2 @@
 # ChessEngine
-Chess Game 2-player
+Chess Game <br>2-player
